@@ -120,7 +120,7 @@ main {
     margin-bottom: 200px; /* Adds space below the main content */
 }
 
-#home h1 {
+#home h1, h2 {
     text-align: center; /* Centers the text */
     
 }
@@ -128,7 +128,7 @@ main {
 #home {
     margin-top: 20px; /* Adds space above the section, below the image */
 }
-#newpage h1 {
+#newpage h1, h2 {
     text-align: center; /* Centers the text */
 }
 #newpage h3 {
